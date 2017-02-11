@@ -1,0 +1,173 @@
+* {
+    /*border: 1px solid red;*/
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777;
+    line-height: 34px;
+    background: url("../images/concrete_seamless.png");
+}
+
+.container-fluid {
+	padding: 0;
+}
+#masthead {
+    border-bottom: 2px solid #ccc;
+}
+
+a {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 18px;
+    color: #777;
+}
+
+.container {
+    width: 100%;
+   /* padding-left: 5%;
+    padding-right: 5%;*/
+}
+
+.body-container {
+    margin-top: -20px;
+    background: url("../images/concrete_seamless.png");
+}
+
+.main-section,
+.sidebar {
+    background: white;
+    border: 1px solid #ccc;
+}
+
+.auth-image {
+    float: left;
+}
+
+.social {
+    width: 62px;
+    height: 62px;
+    margin-top: 8px;
+    margin-right: 5px;
+}
+
+.main-section {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: ;
+    margin-right: ;
+    padding: 20px 30px 30px;
+    overflow: auto;
+}
+
+.sidebar {
+    margin-top: 40px;
+    float: left;
+    margin-left: ;
+    padding: 20px;
+    padding-left: 40px;
+}
+
+h1,
+h2,
+h3 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
+    font-weight: 700;
+}
+
+#logo {
+    margin-left: 0;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 90px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    justify-content: center;
+    line-height: 90px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 30px;
+    text-decoration: none;
+    background: #4aaaa5;
+}
+
+.nav-links {
+    margin-top: 20px;
+    text-align: center;
+}
+
+h1 {
+    padding-bottom: 20px;
+    font-size: 30px;
+    line-height: 49px;
+    border-bottom: 3px solid #ddd;
+    margin-bottom: 20px;
+}
+
+h3,
+.sidebar h2 {
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+    line-height: 22px;
+    border-bottom: 2px solid #eee;
+}
+
+h2,
+h3 {
+    font-size: 22px;
+}
+
+.submit {
+    padding: 12px 40px 12px 40px;
+    margin-top: 15px;
+    background-color: #4aaaa5;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+.work {
+    position: relative;
+    width: 97%;
+    height: 100%;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    overflow: auto;
+    /*margin-left: 10px;*/
+}
+.port h3 {
+        position: absolute;
+        bottom: 40px;
+        margin-bottom: 0;
+        padding: 15px 0 15px 0;
+        width: 88%;
+        color: #fff;
+        text-align: center;
+        line-height: 30px;
+        font-weight: 300;
+        background: #4aaaa5;
+        border-bottom: 0;
+    }
+.port img {
+        width: 100%;
+        border: 0 none;
+        opacity: .8;
+}
+/*.work2 {
+	float: right;
+	margin-right: -15px;
+	margin-left: 0px;
+}*/
+.footer {
+    padding: 30px 0;
+    clear: both;
+    color: #fff;
+    color: #ccc;
+    font-size: 12px;
+    text-align: center;
+    background-color: #666;
+    border-top: 8px solid #4aaaa5;
+}
