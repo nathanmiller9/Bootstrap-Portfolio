@@ -4,7 +4,7 @@
  - https://nathanmiller9.github.io/Bootstrap-Portfolio/
 
 ## Requirements
-#### Use Bootstrap to make a fully responsive version of the Basic Portfolio that you've already created. Do not use media queries.
+#### Fully responsive version of my first Basic Portfolio using Bootstrap without the use of media queries.
 
 ## Technologies Used
 - HTML
